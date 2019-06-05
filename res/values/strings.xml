@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PremierTPOrleans</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello Premier TP!</string>
+    <string name="edt_hint">Give me a text</string>
+    <string name="btn_add">Add Text</string>
+    <string name="dialog_message">Wanna update the EditText</string>
+
+</resources>
